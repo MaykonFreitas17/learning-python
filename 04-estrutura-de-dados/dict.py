@@ -18,3 +18,12 @@ weekdays = {
 }
 
 print(weekdays[1], weekdays[2], weekdays[3])
+
+# Pegando todas as chaves do objeto - .keys()
+print(notas.keys())
+
+# Pegando todos os valores dos objetos - .values()
+print(notas.values())
+
+# Pegando todos os conjuntos key-value - .items()
+print(notas.items())

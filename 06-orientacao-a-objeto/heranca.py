@@ -25,6 +25,15 @@ class Estudante(Pessoa):
     print(f'cpf: {self.cpf}')
     print(f'curso: {self.curso}')
     print('==========================')
+  
+  def get_study(self):
+    return {
+      "id": 1,
+      "nome": self.nome,
+      "idade": self.idade,
+      "cpf": self.cpf,
+      "curso": self.curso
+    }
 
 p1 = Pessoa('Maykon Freitas', 20, "000.000.000-00")
 p1.show_informations()

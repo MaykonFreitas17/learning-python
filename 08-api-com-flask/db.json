@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Maykon Freitas",
+    "email": "maykon17dev22@gmail.com",
+    "password": "123456@"
+  },
+  {
+    "id": 2,
+    "name": "Bruno Sousa",
+    "email": "exemple@gmail.com",
+    "password": "123456"
+  },
+  {
+    "id": 3,
+    "name": "Samuel Pinheiro",
+    "email": "exemple@gmail.com",
+    "password": "123456"
+  },
+  {
+    "id": 4,
+    "name": "Rafael Lima",
+    "email": "exemple@gmail.com",
+    "password": "123456"
+  },
+  {
+    "id": 5,
+    "name": "Tharcio Andrades",
+    "email": "exemple@gmail.com",
+    "password": "123456"
+  },
+  {
+    "id": 6,
+    "name": "Guilherme Augusto",
+    "email": "exemple@gmail.com",
+    "password": "123456"
+  },
+  {
+    "id": 7,
+    "name": "Patricia Santiago",
+    "email": "patricia123@gmail.com",
+    "password": "fabricio123love"
+  },
+  {
+    "id": 9,
+    "name": "Gabriel Arcaninhu",
+    "email": "gabriel22arcaninhu@gmail.com",
+    "password": "ayuhmteamo"
+  },
+  {
+    "id": 10,
+    "name": "Gabriel Pinheiro",
+    "email": "gabrielpinheiro123@gmail.com",
+    "password": "gabrielpl123"
+  }
+]

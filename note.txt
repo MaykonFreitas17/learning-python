@@ -8,3 +8,6 @@ Para rodar a aplicação Django, use o comando:
 
 A porta padrão onde o Django é executado (roda) é na porta 8000
   acesse: http://localhost:8000 ou http://127.0.0.1:8000
+
+O Django é compostor por app - que são representações de parte da aplicação (funcionalidades)
+  para criar um app: django-admin startapp nome-app

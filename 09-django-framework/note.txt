@@ -1,0 +1,4 @@
+instalar o Django -> pip install Django
+
+Para criar um projeto django, podemos usar o django-admin, como o comando:
+  django-admin startproject nome-projeto .
